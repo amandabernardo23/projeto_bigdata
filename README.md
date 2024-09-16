@@ -1,4 +1,4 @@
-# pProjeto da disciplina de Big Data.
+# Projeto da disciplina de Big Data.
 
 Grupo: 
 Cibele Benício Lourenço - 01535470;
