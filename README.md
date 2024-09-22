@@ -1,6 +1,7 @@
 # Projeto da disciplina de Big Data.
 
-Grupo: 
+**Grupo ACBM**: 
+
 <br>Cibele Benício Lourenço - 01535470; <br/>
 <br>Clóvis Vitor dos Santos Tavares - 01564866; <br/>
 <br>Alan Victor Matos Cerqueira - 01536516;<br/>
@@ -8,5 +9,8 @@ Grupo:
 <br>Breno Antônio Alexandrino da Silva - 01280628; <br/>
 <br>Maria Christina Santos Barbosa - 01565538.<br/>
 
-Documentação:
+**A documentação do projeto foi feita através do google doc**:
 https://encurtador.com.br/7GTN2
+
+**Slide no canva**:
+https://encurtador.com.br/TPAkH
