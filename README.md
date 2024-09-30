@@ -10,7 +10,7 @@
 <br>Maria Christina Santos Barbosa - 01565538.<br/>
 
 **A documentação do projeto foi feita através do google doc**:
-https://encurtador.com.br/7GTN2
+https://encurtador.com.br/piub2
 
 **Slide no canva**:
 https://encurtador.com.br/TPAkH
